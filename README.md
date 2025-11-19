@@ -1,4 +1,4 @@
-# pizza_sales_project-by-SQL
+# pizza_sales_project_by_SQL
 Pizza Sales Data Analysis 🍕
 📌 Project Overview
 This project analyzes sales data from a pizza chain to answer key business questions regarding customer demand, sales performance, and operational efficiency. The analysis was performed using SQL (MySQL/PostgreSQL) to derive actionable insights from the raw data.
