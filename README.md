@@ -35,6 +35,3 @@ Window Functions: Used RANK() OVER (PARTITION BY ...) to find the top 3 pizzas p
 
 Advanced Analytics: Calculated Cumulative Revenue over time using window functions.
 
-📊 Analysis Breakdown
-1. Sales Performance
-Question: What are the top 5 most ordered pizza types? Query Highlight:
